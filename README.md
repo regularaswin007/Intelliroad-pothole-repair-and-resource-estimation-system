@@ -1,4 +1,4 @@
-# IntelliRoad
+# IntelliRoad - Autonomous Deep RL-Driven Pothole Repair and Resource Estimation System
 
 Road-pothole detection, repair prioritization and material estimation, with a point-cloud measurement
 module and a ROS 2 node. Detection uses YOLOv8 plus classical CV, depth comes from MiDaS, repair
