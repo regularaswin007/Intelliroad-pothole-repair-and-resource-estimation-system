@@ -1,0 +1,7 @@
+# Optional: Phi-2 fine-tuning (train_llm.py) and the local-LLM analyzer (llm_analyzer.PotholeAnalyzer).
+# Not needed for the Streamlit app, which uses the rule-based analyzer.
+transformers>=4.36.0
+peft>=0.7.0
+bitsandbytes>=0.41.0   # QLoRA; usually Linux + NVIDIA GPU only
+datasets>=2.15.0
+accelerate>=0.25.0

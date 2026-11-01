@@ -1,0 +1,27 @@
+{
+  "dataset": "RDD2022",
+  "countries": [
+    "Japan",
+    "India",
+    "Czech Republic",
+    "Norway",
+    "USA",
+    "China"
+  ],
+  "total_images": 47420,
+  "total_annotations": 55000,
+  "damage_types": [
+    "longitudinal_crack",
+    "transverse_crack",
+    "alligator_crack",
+    "pothole",
+    "other"
+  ],
+  "distribution": {
+    "pothole": 12500,
+    "longitudinal_crack": 15000,
+    "transverse_crack": 13000,
+    "alligator_crack": 10000,
+    "other": 4500
+  }
+}
